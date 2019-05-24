@@ -75,7 +75,7 @@
                 <i class="fas fa-search-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
+            <img class="img-fluid" src="img/portfolio/android.png" alt="">
           </a>
         </div>
         <div class="col-md-6 col-lg-4">
@@ -85,7 +85,7 @@
                 <i class="fas fa-search-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/cake.png" alt="">
+            <img class="img-fluid" src="img/portfolio/java.jpg" alt="">
           </a>
         </div>
         <div class="col-md-6 col-lg-4">
@@ -95,7 +95,7 @@
                 <i class="fas fa-search-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/circus.png" alt="">
+            <img class="img-fluid" src="img/portfolio/spring.png" alt="">
           </a>
         </div>
         <div class="col-md-6 col-lg-4">
@@ -105,7 +105,7 @@
                 <i class="fas fa-search-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/game.png" alt="">
+            <img class="img-fluid" src="img/portfolio/js.png" alt="">
           </a>
         </div>
         <div class="col-md-6 col-lg-4">
@@ -115,17 +115,7 @@
                 <i class="fas fa-search-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/safe.png" alt="">
-          </a>
-        </div>
-        <div class="col-md-6 col-lg-4">
-          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-6">
-            <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                <i class="fas fa-search-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" src="img/portfolio/submarine.png" alt="">
+            <img class="img-fluid" src="img/portfolio/JQuery.png" alt="">
           </a>
         </div>
       </div>
@@ -159,7 +149,7 @@
           <p class="lead">2018.12 ~ 2018.04 삼성카드 회원유치 윈도우 태블릿 프로세스 구축 </p>
         </div>
       <div class="text-center mt-4">
-        <a class="btn btn-xl btn-outline-light" href="#">
+        <a class="btn btn-xl btn-outline-light" id="portfolioDownload">
           <i class="fas fa-download mr-2"></i>
           상세 경력 다운로드
         </a>
@@ -233,10 +223,10 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <h2 class="text-secondary text-uppercase mb-0">Android Developer</h2>
             <hr class="star-dark mb-5">
-            <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <img class="img-fluid mb-5" src="img/portfolio/android.png" alt="">
+            <p class="mb-5">현재 안드로이드 개발자로 활동 중</p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -255,10 +245,10 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <h2 class="text-secondary text-uppercase mb-0">가장 잘하는 언어</h2>
             <hr class="star-dark mb-5">
-            <img class="img-fluid mb-5" src="img/portfolio/cake.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <img class="img-fluid mb-5" src="img/portfolio/java.jpg" alt="">
+            <p class="mb-5">Spring Framework, Android에서 주로 사용</p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -277,10 +267,10 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <h2 class="text-secondary text-uppercase mb-0">Spring Framwork</h2>
             <hr class="star-dark mb-5">
-            <img class="img-fluid mb-5" src="img/portfolio/circus.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <img class="img-fluid mb-5" src="img/portfolio/spring.png" alt="">
+            <p class="mb-5">애니프래임 사용</p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -299,10 +289,10 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <h2 class="text-secondary text-uppercase mb-0">Web Front End</h2>
             <hr class="star-dark mb-5">
-            <img class="img-fluid mb-5" src="img/portfolio/game.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <img class="img-fluid mb-5" src="img/portfolio/js.png" alt="">
+            <p class="mb-5">웹개발 때 사용</p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -321,10 +311,10 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <h2 class="text-secondary text-uppercase mb-0">Web Front End</h2>
             <hr class="star-dark mb-5">
-            <img class="img-fluid mb-5" src="img/portfolio/safe.png" alt="">
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <img class="img-fluid mb-5" src="img/portfolio/JQuery.png" alt="">
+            <p class="mb-5">Front End 개발에 사용</p>
             <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i class="fa fa-close"></i>
               Close Project</a>
@@ -370,7 +360,7 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/freelancer.min.js"></script>
-
+  <script src="js/home.js"></script>
 </body>
 
 </html>
