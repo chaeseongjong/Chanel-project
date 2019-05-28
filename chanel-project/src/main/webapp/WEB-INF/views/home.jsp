@@ -39,10 +39,10 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portfolio</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Skill</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">Portfolio</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contact</a>
@@ -65,58 +65,58 @@
   <!-- Portfolio Grid Section -->
   <section class="portfolio" id="portfolio">
     <div class="container">
-      <h2 class="text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+      <h2 class="text-center text-uppercase text-secondary mb-0">Skiil</h2>
       <hr class="star-dark mb-5">
       <div class="row">
         <div class="col-md-6 col-lg-4">
-          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+         <!--  <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1"> -->
             <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+<!--               <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                 <i class="fas fa-search-plus fa-3x"></i>
-              </div>
+              </div> -->
             </div>
             <img class="img-fluid" src="img/portfolio/android.png" alt="">
-          </a>
+         <!--  </a> -->
         </div>
         <div class="col-md-6 col-lg-4">
-          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+        <!--   <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2"> -->
             <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+             <!--  <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                 <i class="fas fa-search-plus fa-3x"></i>
-              </div>
+              </div> -->
             </div>
-            <img class="img-fluid" src="img/portfolio/java.jpg" alt="">
-          </a>
+            <img class="img-fluid" src="img/portfolio/java.png" alt="">
+        <!--   </a> -->
         </div>
         <div class="col-md-6 col-lg-4">
-          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+        <!--   <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3"> -->
             <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+             <!--  <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                 <i class="fas fa-search-plus fa-3x"></i>
-              </div>
+              </div> -->
             </div>
             <img class="img-fluid" src="img/portfolio/spring.png" alt="">
-          </a>
+         <!--  </a> -->
         </div>
         <div class="col-md-6 col-lg-4">
-          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-4">
+       <!--    <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-4"> -->
             <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+            <!--   <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                 <i class="fas fa-search-plus fa-3x"></i>
-              </div>
+              </div> -->
             </div>
             <img class="img-fluid" src="img/portfolio/js.png" alt="">
-          </a>
+          <!-- </a> -->
         </div>
         <div class="col-md-6 col-lg-4">
-          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-5">
+          <!-- <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-5"> -->
             <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
-              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+            <!--   <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                 <i class="fas fa-search-plus fa-3x"></i>
-              </div>
+              </div> -->
             </div>
             <img class="img-fluid" src="img/portfolio/JQuery.png" alt="">
-          </a>
+         <!--  </a> -->
         </div>
       </div>
     </div>
@@ -125,7 +125,7 @@
   <!-- About Section -->
   <section class="bg-primary text-white mb-0" id="about">
     <div class="container">
-      <h2 class="text-center text-uppercase text-white">About</h2>
+      <h2 class="text-center text-uppercase text-white">Portfolio</h2>
       <hr class="star-light mb-5">
         <div class="ml-a uto">
           <p class="lead">2016.10 지오소프트 입사</p>
@@ -214,8 +214,8 @@
   </div>
 
 
-  <!-- Portfolio Modal 1 -->
-  <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
+ <!--  <!-- Portfolio Modal 1 -->
+<!--   <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
     <div class="portfolio-modal-dialog bg-white">
       <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
         <i class="fa fa-3x fa-times"></i>
@@ -234,9 +234,9 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
-  <!-- Portfolio Modal 2 -->
+  <!-- Portfolio Modal 2
   <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
     <div class="portfolio-modal-dialog bg-white">
       <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
@@ -258,7 +258,7 @@
     </div>
   </div>
 
-  <!-- Portfolio Modal 3 -->
+  Portfolio Modal 3
   <div class="portfolio-modal mfp-hide" id="portfolio-modal-3">
     <div class="portfolio-modal-dialog bg-white">
       <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
@@ -280,7 +280,7 @@
     </div>
   </div>
 
-  <!-- Portfolio Modal 4 -->
+  Portfolio Modal 4
   <div class="portfolio-modal mfp-hide" id="portfolio-modal-4">
     <div class="portfolio-modal-dialog bg-white">
       <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
@@ -302,7 +302,7 @@
     </div>
   </div>
 
-  <!-- Portfolio Modal 5 -->
+  Portfolio Modal 5
   <div class="portfolio-modal mfp-hide" id="portfolio-modal-5">
     <div class="portfolio-modal-dialog bg-white">
       <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
@@ -324,7 +324,7 @@
     </div>
   </div>
 
-  <!-- Portfolio Modal 6 -->
+  Portfolio Modal 6
   <div class="portfolio-modal mfp-hide" id="portfolio-modal-6">
     <div class="portfolio-modal-dialog bg-white">
       <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
@@ -344,7 +344,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
